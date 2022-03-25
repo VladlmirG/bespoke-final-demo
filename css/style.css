@@ -792,7 +792,7 @@ section{
 @media (max-width:768px){
     html{
         scroll-padding-top: 0;
-        font-size: 70%;
+        font-size: 50%;
     }
 
     body{
